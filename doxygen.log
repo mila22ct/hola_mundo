@@ -1,0 +1,384 @@
+warning: source sample is not a readable file or directory... skipping.
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicMetricEvaluators.h:664: warning: Reached end of file while still inside a (nested) comment. Nesting level 5 (probable line reference: 544, 531, 486, 466, 427)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDBMTree.h:2189: warning: Reached end of file while still inside a (nested) comment. Nesting level 2 (probable line reference: 1464, 61)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDBMTree.h:108: warning: documentation for unknown define __stSubtreeInfo found.
+
+todo:53: warning: Unsupported xml/html tag <class> found
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicObjects.h:254: warning: argument 'datasize' of command @param is not found in the argument list of stBasicArrayObject< DataType, OIDType >::Unserialize(const stByte *data, stSize dataSize)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicObjects.h:254: warning: The following parameters of stBasicArrayObject::Unserialize(const stByte *data, stSize dataSize) are not documented:
+  parameter 'dataSize'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicMetricEvaluators.h:408: warning: argument 'obj1' of command @param is not found in the argument list of stBasicBasicSquareChiSquaredMetricEvaluator< ObjectType >::GetDistance(ObjectType *o1, ObjectType *o2)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicMetricEvaluators.h:408: warning: argument 'obj2' of command @param is not found in the argument list of stBasicBasicSquareChiSquaredMetricEvaluator< ObjectType >::GetDistance(ObjectType *o1, ObjectType *o2)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicMetricEvaluators.h:408: warning: The following parameters of stBasicBasicSquareChiSquaredMetricEvaluator::GetDistance(ObjectType *o1, ObjectType *o2) are not documented:
+  parameter 'o1'
+  parameter 'o2'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicMetricEvaluators.h:413: warning: argument 'obj1' of command @param is not found in the argument list of stBasicBasicSquareChiSquaredMetricEvaluator< ObjectType >::GetDistance2(ObjectType *o1, ObjectType *o2)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicMetricEvaluators.h:413: warning: argument 'obj2' of command @param is not found in the argument list of stBasicBasicSquareChiSquaredMetricEvaluator< ObjectType >::GetDistance2(ObjectType *o1, ObjectType *o2)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicMetricEvaluators.h:413: warning: The following parameters of stBasicBasicSquareChiSquaredMetricEvaluator::GetDistance2(ObjectType *o1, ObjectType *o2) are not documented:
+  parameter 'o1'
+  parameter 'o2'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicMetricEvaluators.h:320: warning: argument 'obj1' of command @param is not found in the argument list of stBasicBrayCurtisMetricEvaluator< ObjectType >::GetDistance(ObjectType *o1, ObjectType *o2)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicMetricEvaluators.h:320: warning: argument 'obj2' of command @param is not found in the argument list of stBasicBrayCurtisMetricEvaluator< ObjectType >::GetDistance(ObjectType *o1, ObjectType *o2)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicMetricEvaluators.h:320: warning: The following parameters of stBasicBrayCurtisMetricEvaluator::GetDistance(ObjectType *o1, ObjectType *o2) are not documented:
+  parameter 'o1'
+  parameter 'o2'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicMetricEvaluators.h:325: warning: argument 'obj1' of command @param is not found in the argument list of stBasicBrayCurtisMetricEvaluator< ObjectType >::GetDistance2(ObjectType *o1, ObjectType *o2)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicMetricEvaluators.h:325: warning: argument 'obj2' of command @param is not found in the argument list of stBasicBrayCurtisMetricEvaluator< ObjectType >::GetDistance2(ObjectType *o1, ObjectType *o2)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicMetricEvaluators.h:325: warning: The following parameters of stBasicBrayCurtisMetricEvaluator::GetDistance2(ObjectType *o1, ObjectType *o2) are not documented:
+  parameter 'o1'
+  parameter 'o2'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicMetricEvaluators.h:276: warning: argument 'obj1' of command @param is not found in the argument list of stBasicCanberraMetricEvaluator< ObjectType >::GetDistance(ObjectType *o1, ObjectType *o2)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicMetricEvaluators.h:276: warning: argument 'obj2' of command @param is not found in the argument list of stBasicCanberraMetricEvaluator< ObjectType >::GetDistance(ObjectType *o1, ObjectType *o2)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicMetricEvaluators.h:276: warning: The following parameters of stBasicCanberraMetricEvaluator::GetDistance(ObjectType *o1, ObjectType *o2) are not documented:
+  parameter 'o1'
+  parameter 'o2'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicMetricEvaluators.h:281: warning: argument 'obj1' of command @param is not found in the argument list of stBasicCanberraMetricEvaluator< ObjectType >::GetDistance2(ObjectType *o1, ObjectType *o2)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicMetricEvaluators.h:281: warning: argument 'obj2' of command @param is not found in the argument list of stBasicCanberraMetricEvaluator< ObjectType >::GetDistance2(ObjectType *o1, ObjectType *o2)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicMetricEvaluators.h:281: warning: The following parameters of stBasicCanberraMetricEvaluator::GetDistance2(ObjectType *o1, ObjectType *o2) are not documented:
+  parameter 'o1'
+  parameter 'o2'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicMetricEvaluators.h:187: warning: argument 'obj1' of command @param is not found in the argument list of stBasicEuclideanMetricEvaluator< ObjectType >::GetDistance(ObjectType *o1, ObjectType *o2)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicMetricEvaluators.h:187: warning: argument 'obj2' of command @param is not found in the argument list of stBasicEuclideanMetricEvaluator< ObjectType >::GetDistance(ObjectType *o1, ObjectType *o2)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicMetricEvaluators.h:187: warning: The following parameters of stBasicEuclideanMetricEvaluator::GetDistance(ObjectType *o1, ObjectType *o2) are not documented:
+  parameter 'o1'
+  parameter 'o2'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicMetricEvaluators.h:195: warning: argument 'obj1' of command @param is not found in the argument list of stBasicEuclideanMetricEvaluator< ObjectType >::GetDistance2(ObjectType *o1, ObjectType *o2)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicMetricEvaluators.h:195: warning: argument 'obj2' of command @param is not found in the argument list of stBasicEuclideanMetricEvaluator< ObjectType >::GetDistance2(ObjectType *o1, ObjectType *o2)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicMetricEvaluators.h:195: warning: The following parameters of stBasicEuclideanMetricEvaluator::GetDistance2(ObjectType *o1, ObjectType *o2) are not documented:
+  parameter 'o1'
+  parameter 'o2'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicMetricEvaluators.h:611: warning: Unsupported xml/html tag <class> found
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicMetricEvaluators.h:595: warning: argument 'obj1' of command @param is not found in the argument list of stBasicLEditMetricEvaluator< ObjectType, DataType >::GetDistance(ObjectType *o1, ObjectType *o2)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicMetricEvaluators.h:595: warning: argument 'obj2' of command @param is not found in the argument list of stBasicLEditMetricEvaluator< ObjectType, DataType >::GetDistance(ObjectType *o1, ObjectType *o2)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicMetricEvaluators.h:595: warning: The following parameters of stBasicLEditMetricEvaluator::GetDistance(ObjectType *o1, ObjectType *o2) are not documented:
+  parameter 'o1'
+  parameter 'o2'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicMetricEvaluators.h:605: warning: argument 'obj1' of command @param is not found in the argument list of stBasicLEditMetricEvaluator< ObjectType, DataType >::GetDistance2(ObjectType *o1, ObjectType *o2)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicMetricEvaluators.h:605: warning: argument 'obj2' of command @param is not found in the argument list of stBasicLEditMetricEvaluator< ObjectType, DataType >::GetDistance2(ObjectType *o1, ObjectType *o2)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicMetricEvaluators.h:605: warning: The following parameters of stBasicLEditMetricEvaluator::GetDistance2(ObjectType *o1, ObjectType *o2) are not documented:
+  parameter 'o1'
+  parameter 'o2'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicMetricEvaluators.h:140: warning: argument 'obj1' of command @param is not found in the argument list of stBasicLInfinityMetricEvaluator< ObjectType >::GetDistance(ObjectType *o1, ObjectType *o2)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicMetricEvaluators.h:140: warning: argument 'obj2' of command @param is not found in the argument list of stBasicLInfinityMetricEvaluator< ObjectType >::GetDistance(ObjectType *o1, ObjectType *o2)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicMetricEvaluators.h:140: warning: The following parameters of stBasicLInfinityMetricEvaluator::GetDistance(ObjectType *o1, ObjectType *o2) are not documented:
+  parameter 'o1'
+  parameter 'o2'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicMetricEvaluators.h:145: warning: argument 'obj1' of command @param is not found in the argument list of stBasicLInfinityMetricEvaluator< ObjectType >::GetDistance2(ObjectType *o1, ObjectType *o2)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicMetricEvaluators.h:145: warning: argument 'obj2' of command @param is not found in the argument list of stBasicLInfinityMetricEvaluator< ObjectType >::GetDistance2(ObjectType *o1, ObjectType *o2)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicMetricEvaluators.h:145: warning: The following parameters of stBasicLInfinityMetricEvaluator::GetDistance2(ObjectType *o1, ObjectType *o2) are not documented:
+  parameter 'o1'
+  parameter 'o2'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicMetricEvaluators.h:232: warning: argument 'obj1' of command @param is not found in the argument list of stBasicManhatanMetricEvaluator< ObjectType >::GetDistance(ObjectType *o1, ObjectType *o2)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicMetricEvaluators.h:232: warning: argument 'obj2' of command @param is not found in the argument list of stBasicManhatanMetricEvaluator< ObjectType >::GetDistance(ObjectType *o1, ObjectType *o2)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicMetricEvaluators.h:232: warning: The following parameters of stBasicManhatanMetricEvaluator::GetDistance(ObjectType *o1, ObjectType *o2) are not documented:
+  parameter 'o1'
+  parameter 'o2'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicMetricEvaluators.h:237: warning: argument 'obj1' of command @param is not found in the argument list of stBasicManhatanMetricEvaluator< ObjectType >::GetDistance2(ObjectType *o1, ObjectType *o2)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicMetricEvaluators.h:237: warning: argument 'obj2' of command @param is not found in the argument list of stBasicManhatanMetricEvaluator< ObjectType >::GetDistance2(ObjectType *o1, ObjectType *o2)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicMetricEvaluators.h:237: warning: The following parameters of stBasicManhatanMetricEvaluator::GetDistance2(ObjectType *o1, ObjectType *o2) are not documented:
+  parameter 'o1'
+  parameter 'o2'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicMetricEvaluators.h:99: warning: argument 'obj1' of command @param is not found in the argument list of stBasicMetricEvaluator< ObjectType >::GetDistance(ObjectType *o1, ObjectType *o2)=0
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicMetricEvaluators.h:99: warning: argument 'obj2' of command @param is not found in the argument list of stBasicMetricEvaluator< ObjectType >::GetDistance(ObjectType *o1, ObjectType *o2)=0
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicMetricEvaluators.h:99: warning: The following parameters of stBasicMetricEvaluator::GetDistance(ObjectType *o1, ObjectType *o2)=0 are not documented:
+  parameter 'o1'
+  parameter 'o2'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicMetricEvaluators.h:104: warning: argument 'obj1' of command @param is not found in the argument list of stBasicMetricEvaluator< ObjectType >::GetDistance2(ObjectType *o1, ObjectType *o2)=0
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicMetricEvaluators.h:104: warning: argument 'obj2' of command @param is not found in the argument list of stBasicMetricEvaluator< ObjectType >::GetDistance2(ObjectType *o1, ObjectType *o2)=0
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicMetricEvaluators.h:104: warning: The following parameters of stBasicMetricEvaluator::GetDistance2(ObjectType *o1, ObjectType *o2)=0 are not documented:
+  parameter 'o1'
+  parameter 'o2'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicMetricEvaluators.h:364: warning: argument 'obj1' of command @param is not found in the argument list of stBasicSquaredChordMetricEvaluator< ObjectType >::GetDistance(ObjectType *o1, ObjectType *o2)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicMetricEvaluators.h:364: warning: argument 'obj2' of command @param is not found in the argument list of stBasicSquaredChordMetricEvaluator< ObjectType >::GetDistance(ObjectType *o1, ObjectType *o2)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicMetricEvaluators.h:364: warning: The following parameters of stBasicSquaredChordMetricEvaluator::GetDistance(ObjectType *o1, ObjectType *o2) are not documented:
+  parameter 'o1'
+  parameter 'o2'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicMetricEvaluators.h:369: warning: argument 'obj1' of command @param is not found in the argument list of stBasicSquaredChordMetricEvaluator< ObjectType >::GetDistance2(ObjectType *o1, ObjectType *o2)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicMetricEvaluators.h:369: warning: argument 'obj2' of command @param is not found in the argument list of stBasicSquaredChordMetricEvaluator< ObjectType >::GetDistance2(ObjectType *o1, ObjectType *o2)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicMetricEvaluators.h:369: warning: The following parameters of stBasicSquaredChordMetricEvaluator::GetDistance2(ObjectType *o1, ObjectType *o2) are not documented:
+  parameter 'o1'
+  parameter 'o2'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicObjects.h:467: warning: argument 'OID' of command @param is not found in the argument list of stBasicStringObject< DataType, OIDType >::SetOID(OIDType oid)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicObjects.h:467: warning: The following parameters of stBasicStringObject::SetOID(OIDType oid) are not documented:
+  parameter 'oid'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicObjects.h:527: warning: argument 'datasize' of command @param is not found in the argument list of stBasicStringObject< DataType, OIDType >::Unserialize(const stByte *data, stSize dataSize)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stBasicObjects.h:527: warning: The following parameters of stBasicStringObject::Unserialize(const stByte *data, stSize dataSize) are not documented:
+  parameter 'dataSize'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDBMCollection.h:463: warning: argument 'hint' of command @param is not found in the argument list of stDBMCollection< ObjectType >::stDBMCollection(stCount initialSize=32, stCount increment=32)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDBMCollection.h:463: warning: The following parameters of stDBMCollection::stDBMCollection(stCount initialSize=32, stCount increment=32) are not documented:
+  parameter 'initialSize'
+  parameter 'increment'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDBMCollection.h:547: warning: The following parameters of stDBMCollection::AddEntry(tObject *object,#ifdef __stDBMHEIGHT__ stByte height,#endifstPageID pageID,#ifdef __stDBMNENTRIES__ stCount nEntries,#endifstDistance radius, bool mine=true) are not documented:
+  parameter 'mine'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDBMCollection.h:102: warning: argument 'object' of command @param is not found in the argument list of stDBMEntryCollection< ObjectType >::stDBMEntryCollection()
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDBMCollection.h:102: warning: argument 'height' of command @param is not found in the argument list of stDBMEntryCollection< ObjectType >::stDBMEntryCollection()
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDBMCollection.h:102: warning: argument 'pageID' of command @param is not found in the argument list of stDBMEntryCollection< ObjectType >::stDBMEntryCollection()
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDBMCollection.h:102: warning: argument 'nEntries' of command @param is not found in the argument list of stDBMEntryCollection< ObjectType >::stDBMEntryCollection()
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDBMCollection.h:102: warning: argument 'radius' of command @param is not found in the argument list of stDBMEntryCollection< ObjectType >::stDBMEntryCollection()
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDBMCollection.h:127: warning: The following parameters of stDBMEntryCollection::stDBMEntryCollection(tObject *object,#ifdef __stDBMHEIGHT__ stByte height,#endif stPageID pageID,#ifdef __stDBMNENTRIES__ stCount nEntries,#endif stDistance radius, bool mine=true) are not documented:
+  parameter 'mine'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDBMTree.h:321: warning: argument 'node' of command @param is not found in the argument list of stDBMLogicNode< ObjectType, EvaluatorType >::AddCollection(tDBMCollection *returnCollection)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDBMTree.h:321: warning: The following parameters of stDBMLogicNode::AddCollection(tDBMCollection *returnCollection) are not documented:
+  parameter 'returnCollection'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDBMTree.h:337: warning: argument 'id' of command @param is not found in the argument list of stDBMLogicNode< ObjectType, EvaluatorType >::GetRepresentative(stCount idx)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDBMTree.h:337: warning: The following parameters of stDBMLogicNode::GetRepresentative(stCount idx) are not documented:
+  parameter 'idx'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDBMTree.h:328: warning: argument 'id' of command @param is not found in the argument list of stDBMLogicNode< ObjectType, EvaluatorType >::GetRepresentativeIndex(stCount idx)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDBMTree.h:328: warning: The following parameters of stDBMLogicNode::GetRepresentativeIndex(stCount idx) are not documented:
+  parameter 'idx'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDBMTree.h:287: warning: argument 'pageID' of command @param is not found in the argument list of stDBMLogicNode< ObjectType, EvaluatorType >::SetEntry(stCount idx, stPageID pageID#ifdef __stDBMNENTRIES__, stCount nEntries#endif, stDistance radius#ifdef __stDBMHEIGHT__, stByte height#endif)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDBMTree.h:287: warning: argument 'nEntries' of command @param is not found in the argument list of stDBMLogicNode< ObjectType, EvaluatorType >::SetEntry(stCount idx, stPageID pageID#ifdef __stDBMNENTRIES__, stCount nEntries#endif, stDistance radius#ifdef __stDBMHEIGHT__, stByte height#endif)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDBMTree.h:287: warning: argument 'radius' of command @param is not found in the argument list of stDBMLogicNode< ObjectType, EvaluatorType >::SetEntry(stCount idx, stPageID pageID#ifdef __stDBMNENTRIES__, stCount nEntries#endif, stDistance radius#ifdef __stDBMHEIGHT__, stByte height#endif)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDBMTree.h:287: warning: The following parameters of stDBMLogicNode::SetEntry(stCount idx, stPageID pageID#ifdef __stDBMNENTRIES__, stCount nEntries#endif, stDistance radius#ifdef __stDBMHEIGHT__, stByte height#endif) are not documented:
+  parameter '__stDBMNENTRIES__'
+  parameter 'endif'
+  parameter '__stDBMHEIGHT__'
+  parameter 'endif'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDBMNode.h:501: warning: argument 'page' of command @param is not found in the argument list of stDBMMemNode< ObjectType >::stDBMMemNode(stSize pageSize, stCount numberOfEntries=32)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDBMNode.h:501: warning: argument 'create' of command @param is not found in the argument list of stDBMMemNode< ObjectType >::stDBMMemNode(stSize pageSize, stCount numberOfEntries=32)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDBMNode.h:501: warning: The following parameters of stDBMMemNode::stDBMMemNode(stSize pageSize, stCount numberOfEntries=32) are not documented:
+  parameter 'pageSize'
+  parameter 'numberOfEntries'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDBMNode.h:625: warning: The following parameters of stDBMMemNode::AddEntry(stSize size, ObjectType *object, stPageID subTree) are not documented:
+  parameter 'subTree'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDBMNode.h:571: warning: argument 'stCount' of command @param is not found in the argument list of stDBMMemNode< ObjectType >::SetNEntries(stCount idx, stCount NEntries)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDBMNode.h:571: warning: The following parameters of stDBMMemNode::SetNEntries(stCount idx, stCount NEntries) are not documented:
+  parameter 'NEntries'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDBMNode.h:607: warning: argument 'stDistance' of command @param is not found in the argument list of stDBMMemNode< ObjectType >::SetRadius(stCount idx, stDistance radius)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDBMNode.h:607: warning: The following parameters of stDBMMemNode::SetRadius(stCount idx, stDistance radius) are not documented:
+  parameter 'radius'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDBMNode.h:96: warning: image file dbnode.png is not found in IMAGE_PATH: assuming external image.
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDBMNode.h:293: warning: The following parameters of stDBMNode::AddEntry(stSize size, const stByte *object, stPageID subTree) are not documented:
+  parameter 'subTree'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDBMNode.h:263: warning: argument 'stCount' of command @param is not found in the argument list of stDBMNode::SetNEntries(stCount idx, stCount NEntries)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDBMNode.h:263: warning: The following parameters of stDBMNode::SetNEntries(stCount idx, stCount NEntries) are not documented:
+  parameter 'NEntries'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDBMNode.h:283: warning: argument 'stDistance' of command @param is not found in the argument list of stDBMNode::SetRadius(stCount idx, stDistance radius)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDBMNode.h:283: warning: The following parameters of stDBMNode::SetRadius(stCount idx, stDistance radius) are not documented:
+  parameter 'radius'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDBMNode.h:795: warning: The following parameters of stDBMShrinkNode::Add(ObjectType *obj, stDistance distance, stPageID pageID, stDistance radius#ifdef __stDBMNENTRIES__, stCount nEntries#endif#ifdef __stDBMHEIGHT__, stByte height#endif) are not documented:
+  parameter 'pageID'
+  parameter '__stDBMNENTRIES__'
+  parameter '__stDBMHEIGHT__'
+  parameter 'endif'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDBMTree.h:1221: warning: argument 'obj' of command @param is not found in the argument list of stDBMTree< ObjectType, EvaluatorType >::Add(ObjectType *newObj)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDBMTree.h:1221: warning: The following parameters of stDBMTree::Add(ObjectType *newObj) are not documented:
+  parameter 'newObj'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDBMTree.h:1555: warning: argument 'dir' of command @param is not found in the argument list of stDBMTree< ObjectType, EvaluatorType >::MAMViewInit()
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDBMTree.h:1471: warning: argument 'data' of command @param is not found in the argument list of stDBMTree< ObjectType, EvaluatorType >::RangeQuery(ObjectType *sample, stDistance range)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDBMTree.h:1471: warning: argument 'padFactor' of command @param is not found in the argument list of stDBMTree< ObjectType, EvaluatorType >::RangeQuery(ObjectType *sample, stDistance range)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDFTree.h:1698: warning: argument 'Object' of command @param is not found in the argument list of stDFGlobalRep< ObjectType, EvaluatorType >::BuildFieldDistance(ObjectType *object, stDistance *fieldDistance)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDFTree.h:1698: warning: argument 'FieldDistance' of command @param is not found in the argument list of stDFGlobalRep< ObjectType, EvaluatorType >::BuildFieldDistance(ObjectType *object, stDistance *fieldDistance)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDFTree.h:1698: warning: The following parameters of stDFGlobalRep::BuildFieldDistance(ObjectType *object, stDistance *fieldDistance) are not documented:
+  parameter 'object'
+  parameter 'fieldDistance'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDFTree.h:1717: warning: argument 'RootPageID' of command @param is not found in the argument list of stDFGlobalRep< ObjectType, EvaluatorType >::CheckUpdate(stPageManager *pageman, stPageID rootPageID, stDistance *fieldDistance)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDFTree.h:1717: warning: argument 'FieldDistance' of command @param is not found in the argument list of stDFGlobalRep< ObjectType, EvaluatorType >::CheckUpdate(stPageManager *pageman, stPageID rootPageID, stDistance *fieldDistance)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDFTree.h:1717: warning: The following parameters of stDFGlobalRep::CheckUpdate(stPageManager *pageman, stPageID rootPageID, stDistance *fieldDistance) are not documented:
+  parameter 'rootPageID'
+  parameter 'fieldDistance'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDFTree.h:1640: warning: argument 'node' of command @param is not found in the argument list of stDFGlobalRep< ObjectType, EvaluatorType >::FindGlobalRep(tLogicNode *logicNode, tMSTSplitter *MSTSplitter, stCount center1, stCount center2, stCount numObject)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDFTree.h:1640: warning: argument 'Center1' of command @param is not found in the argument list of stDFGlobalRep< ObjectType, EvaluatorType >::FindGlobalRep(tLogicNode *logicNode, tMSTSplitter *MSTSplitter, stCount center1, stCount center2, stCount numObject)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDFTree.h:1640: warning: argument 'Center2' of command @param is not found in the argument list of stDFGlobalRep< ObjectType, EvaluatorType >::FindGlobalRep(tLogicNode *logicNode, tMSTSplitter *MSTSplitter, stCount center1, stCount center2, stCount numObject)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDFTree.h:1640: warning: The following parameters of stDFGlobalRep::FindGlobalRep(tLogicNode *logicNode, tMSTSplitter *MSTSplitter, stCount center1, stCount center2, stCount numObject) are not documented:
+  parameter 'logicNode'
+  parameter 'center1'
+  parameter 'center2'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDFTree.h:1728: warning: The following parameters of stDFGlobalRep::GetCandidates(stPageManager *pageman, stPageID pageID, vector< ObjectType * > &candidateSet) are not documented:
+  parameter 'candidateSet'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDFTree.h:1706: warning: argument 'ObjGRCoord' of command @param is not found in the argument list of stDFGlobalRep< ObjectType, EvaluatorType >::PruneByGlobalRep(stDistance *objGRCoord, stDistance radius, stDistance *distQueryFocus, stDistance queryRadius)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDFTree.h:1706: warning: argument 'Radius' of command @param is not found in the argument list of stDFGlobalRep< ObjectType, EvaluatorType >::PruneByGlobalRep(stDistance *objGRCoord, stDistance radius, stDistance *distQueryFocus, stDistance queryRadius)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDFTree.h:1706: warning: argument 'DistQueryFocus' of command @param is not found in the argument list of stDFGlobalRep< ObjectType, EvaluatorType >::PruneByGlobalRep(stDistance *objGRCoord, stDistance radius, stDistance *distQueryFocus, stDistance queryRadius)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDFTree.h:1706: warning: argument 'QueryRadius' of command @param is not found in the argument list of stDFGlobalRep< ObjectType, EvaluatorType >::PruneByGlobalRep(stDistance *objGRCoord, stDistance radius, stDistance *distQueryFocus, stDistance queryRadius)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDFTree.h:1706: warning: The following parameters of stDFGlobalRep::PruneByGlobalRep(stDistance *objGRCoord, stDistance radius, stDistance *distQueryFocus, stDistance queryRadius) are not documented:
+  parameter 'objGRCoord'
+  parameter 'radius'
+  parameter 'distQueryFocus'
+  parameter 'queryRadius'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDFTree.h:1678: warning: argument 'Object' of command @param is not found in the argument list of stDFGlobalRep< ObjectType, EvaluatorType >::SetFieldDistance(stDFLeafNode *node, stCount idx, ObjectType *object)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDFTree.h:1678: warning: The following parameters of stDFGlobalRep::SetFieldDistance(stDFLeafNode *node, stCount idx, ObjectType *object) are not documented:
+  parameter 'object'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDFTree.h:1688: warning: argument 'Object' of command @param is not found in the argument list of stDFGlobalRep< ObjectType, EvaluatorType >::SetFieldDistance(stDFIndexNode *node, stCount idx, ObjectType *object)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDFTree.h:1688: warning: The following parameters of stDFGlobalRep::SetFieldDistance(stDFIndexNode *node, stCount idx, ObjectType *object) are not documented:
+  parameter 'object'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDFTree.h:1739: warning: argument 'CandidateSet' of command @param is not found in the argument list of stDFGlobalRep< ObjectType, EvaluatorType >::UpdateGR(vector< ObjectType * > candidateSet)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDFTree.h:1739: warning: The following parameters of stDFGlobalRep::UpdateGR(vector< ObjectType * > candidateSet) are not documented:
+  parameter 'candidateSet'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDFNode.h:386: warning: argument 'id' of command @param is not found in the argument list of stDFIndexNode::GetIndexEntry(stCount idx)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDFNode.h:386: warning: The following parameters of stDFIndexNode::GetIndexEntry(stCount idx) are not documented:
+  parameter 'idx'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDFNode.h:434: warning: argument 'id' of command @param is not found in the argument list of stDFIndexNode::GetObject(stCount idx)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDFNode.h:434: warning: The following parameters of stDFIndexNode::GetObject(stCount idx) are not documented:
+  parameter 'idx'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDFNode.h:446: warning: argument 'id' of command @param is not found in the argument list of stDFIndexNode::GetObjectSize(stCount idx)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDFNode.h:446: warning: The following parameters of stDFIndexNode::GetObjectSize(stCount idx) are not documented:
+  parameter 'idx'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDFNode.h:457: warning: argument 'id' of command @param is not found in the argument list of stDFIndexNode::RemoveEntry(stCount idx)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDFNode.h:457: warning: The following parameters of stDFIndexNode::RemoveEntry(stCount idx) are not documented:
+  parameter 'idx'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDFNode.h:571: warning: argument 'id' of command @param is not found in the argument list of stDFLeafNode::GetLeafEntry(stCount idx)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDFNode.h:571: warning: The following parameters of stDFLeafNode::GetLeafEntry(stCount idx) are not documented:
+  parameter 'idx'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDFNode.h:619: warning: argument 'id' of command @param is not found in the argument list of stDFLeafNode::GetObject(stCount idx)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDFNode.h:619: warning: The following parameters of stDFLeafNode::GetObject(stCount idx) are not documented:
+  parameter 'idx'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDFNode.h:631: warning: argument 'id' of command @param is not found in the argument list of stDFLeafNode::GetObjectSize(stCount idx)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDFNode.h:631: warning: The following parameters of stDFLeafNode::GetObjectSize(stCount idx) are not documented:
+  parameter 'idx'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDFNode.h:642: warning: argument 'id' of command @param is not found in the argument list of stDFLeafNode::RemoveEntry(stCount idx)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDFNode.h:642: warning: The following parameters of stDFLeafNode::RemoveEntry(stCount idx) are not documented:
+  parameter 'idx'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDFTree.h:294: warning: The following parameters of stDFLogicNode::Distribute(stDFIndexNode *node0, ObjectType *&rep0, stDFIndexNode *node1, ObjectType *&rep1, EvaluatorType *metricEvaluator, tGR *GR) are not documented:
+  parameter 'rep1'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDFTree.h:273: warning: argument 'id' of command @param is not found in the argument list of stDFLogicNode< ObjectType, EvaluatorType >::GetRepresentative(stCount idx)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDFTree.h:273: warning: The following parameters of stDFLogicNode::GetRepresentative(stCount idx) are not documented:
+  parameter 'idx'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDFTree.h:264: warning: argument 'id' of command @param is not found in the argument list of stDFLogicNode< ObjectType, EvaluatorType >::GetRepresentativeIndex(stCount idx)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDFTree.h:264: warning: The following parameters of stDFLogicNode::GetRepresentativeIndex(stCount idx) are not documented:
+  parameter 'idx'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDFTree.h:231: warning: argument 'FieldDistance' of command @param is not found in the argument list of stDFLogicNode< ObjectType, EvaluatorType >::SetEntry(stCount idx, stPageID pageID, stSize nEntries, stDistance radius, stDistance *fieldDistance)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDFTree.h:231: warning: The following parameters of stDFLogicNode::SetEntry(stCount idx, stPageID pageID, stSize nEntries, stDistance radius, stDistance *fieldDistance) are not documented:
+  parameter 'fieldDistance'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDFTree.h:452: warning: argument 'FieldDistance' of command @param is not found in the argument list of stDFLogicNode< ObjectType, EvaluatorType >::SetFieldDistance(stCount idx, stDistance *fieldDistance)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDFTree.h:452: warning: The following parameters of stDFLogicNode::SetFieldDistance(stCount idx, stDistance *fieldDistance) are not documented:
+  parameter 'fieldDistance'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDFTree.h:441: warning: argument 'FieldDistance' of command @param is not found in the argument list of stDFLogicNode< ObjectType, EvaluatorType >::SetFocusDistance(stCount idx, stCount iGlobalRep, stDistance iFieldDistance)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDFTree.h:441: warning: The following parameters of stDFLogicNode::SetFocusDistance(stCount idx, stCount iGlobalRep, stDistance iFieldDistance) are not documented:
+  parameter 'iFieldDistance'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDFNode.h:96: warning: image file DFnode.png is not found in IMAGE_PATH: assuming external image.
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDFNode.h:199: warning: argument 'id' of command @param is not found in the argument list of stDFNode::GetObject(stCount idx)=0
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDFNode.h:199: warning: The following parameters of stDFNode::GetObject(stCount idx)=0 are not documented:
+  parameter 'idx'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDFNode.h:211: warning: argument 'id' of command @param is not found in the argument list of stDFNode::GetObjectSize(stCount idx)=0
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDFNode.h:211: warning: The following parameters of stDFNode::GetObjectSize(stCount idx)=0 are not documented:
+  parameter 'idx'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDFTree.h:927: warning: The following parameters of stDFTree::stDFTree(stPageManager *pageman, stCount nFocus, stDistance pThreshold) are not documented:
+  parameter 'nFocus'
+  parameter 'pThreshold'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDFTree.h:949: warning: argument 'obj' of command @param is not found in the argument list of stDFTree< ObjectType, EvaluatorType >::Add(ObjectType *newObj)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDFTree.h:949: warning: The following parameters of stDFTree::Add(ObjectType *newObj) are not documented:
+  parameter 'newObj'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDummyNode.h:149: warning: argument 'id' of command @param is not found in the argument list of stDummyNode::GetObject(int idx)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDummyNode.h:149: warning: The following parameters of stDummyNode::GetObject(int idx) are not documented:
+  parameter 'idx'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDummyNode.h:161: warning: argument 'id' of command @param is not found in the argument list of stDummyNode::GetObjectSize(int idx)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDummyNode.h:161: warning: The following parameters of stDummyNode::GetObjectSize(int idx) are not documented:
+  parameter 'idx'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDummyNode.h:173: warning: argument 'id' of command @param is not found in the argument list of stDummyNode::RemoveEntry(stCount idx)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDummyNode.h:173: warning: The following parameters of stDummyNode::RemoveEntry(stCount idx) are not documented:
+  parameter 'idx'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDummyNode.h:192: warning: argument 'id' of command @param is not found in the argument list of stDummyNode::SetNextNode(stPageID idx)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDummyNode.h:192: warning: The following parameters of stDummyNode::SetNextNode(stPageID idx) are not documented:
+  parameter 'idx'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDummyTree.h:297: warning: Found unknown command `\autor'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDummyTree.h:308: warning: Found unknown command `\autor'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stDummyTree.h:273: warning: Found unknown command `\autor'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stUtil.h:593: warning: Found unknown command `\waning'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stUtil.h:746: warning: Found unknown command `\waning'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stFastMapper.h:437: warning: argument 'The' of command @param is not found in the argument list of stFastMapper< ObjectType, EvaluatorType >::SetPivot(int idx, const ObjectType *obj, const double *map)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stFastMapper.h:437: warning: The following parameters of stFastMapper::SetPivot(int idx, const ObjectType *obj, const double *map) are not documented:
+  parameter 'obj'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stGenericPriorityQueue.h:136: warning: argument 'distance' of command @param is not found in the argument list of stGenericEntry< ObjectType >::SetDistanceQuery(stDistance distanceQuery)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stGenericPriorityQueue.h:136: warning: The following parameters of stGenericEntry::SetDistanceQuery(stDistance distanceQuery) are not documented:
+  parameter 'distanceQuery'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stGenericPriorityQueue.h:152: warning: argument 'distance' of command @param is not found in the argument list of stGenericEntry< ObjectType >::SetDistanceRep(stDistance distanceRep)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stGenericPriorityQueue.h:152: warning: The following parameters of stGenericEntry::SetDistanceRep(stDistance distanceRep) are not documented:
+  parameter 'distanceRep'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stGenericPriorityQueue.h:170: warning: argument 'distance' of command @param is not found in the argument list of stGenericEntry< ObjectType >::SetDistanceRepQuery(stDistance distanceRepQuery)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stGenericPriorityQueue.h:170: warning: The following parameters of stGenericEntry::SetDistanceRepQuery(stDistance distanceRepQuery) are not documented:
+  parameter 'distanceRepQuery'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stUtil.h:120: warning: argument 'col' of command @param is not found in the argument list of stGenericMatrix< Type >::stGenericMatrix(int cols, int rows)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stUtil.h:120: warning: argument 'row' of command @param is not found in the argument list of stGenericMatrix< Type >::stGenericMatrix(int cols, int rows)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stUtil.h:120: warning: The following parameters of stGenericMatrix::stGenericMatrix(int cols, int rows) are not documented:
+  parameter 'cols'
+  parameter 'rows'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stUtil.h:144: warning: argument 'col' of command @param is not found in the argument list of stGenericMatrix< Type >::SetSize(int cols, int rows)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stUtil.h:144: warning: argument 'row' of command @param is not found in the argument list of stGenericMatrix< Type >::SetSize(int cols, int rows)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stUtil.h:144: warning: The following parameters of stGenericMatrix::SetSize(int cols, int rows) are not documented:
+  parameter 'cols'
+  parameter 'rows'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stGHNode.h:202: warning: argument 'id' of command @param is not found in the argument list of stGHNode::GetObject(stCount idx)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stGHNode.h:202: warning: The following parameters of stGHNode::GetObject(stCount idx) are not documented:
+  parameter 'idx'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stGHNode.h:214: warning: argument 'id' of command @param is not found in the argument list of stGHNode::GetObjectSize(stCount idx)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stGHNode.h:214: warning: The following parameters of stGHNode::GetObjectSize(stCount idx) are not documented:
+  parameter 'idx'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stGHNode.h:226: warning: argument 'id' of command @param is not found in the argument list of stGHNode::RemoveEntry(stCount idx)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stGHNode.h:226: warning: The following parameters of stGHNode::RemoveEntry(stCount idx) are not documented:
+  parameter 'idx'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stUtil.h:243: warning: argument 'col' of command @param is not found in the argument list of stHugeGenericMatrix< Type >::stHugeGenericMatrix(int cols, int rows)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stUtil.h:243: warning: argument 'row' of command @param is not found in the argument list of stHugeGenericMatrix< Type >::stHugeGenericMatrix(int cols, int rows)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stUtil.h:243: warning: The following parameters of stHugeGenericMatrix::stHugeGenericMatrix(int cols, int rows) are not documented:
+  parameter 'cols'
+  parameter 'rows'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stUtil.h:259: warning: argument 'col' of command @param is not found in the argument list of stHugeGenericMatrix< Type >::SetSize(int cols, int rows)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stUtil.h:259: warning: argument 'row' of command @param is not found in the argument list of stHugeGenericMatrix< Type >::SetSize(int cols, int rows)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stUtil.h:259: warning: The following parameters of stHugeGenericMatrix::SetSize(int cols, int rows) are not documented:
+  parameter 'cols'
+  parameter 'rows'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stListPriorityQueue.h:202: warning: argument 'w' of command @param is not found in the argument list of stListPriorityQueue::Add(stPageID pageID, stDistance distance, stDistance radius)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stListPriorityQueue.h:202: warning: argument 'dist' of command @param is not found in the argument list of stListPriorityQueue::Add(stPageID pageID, stDistance distance, stDistance radius)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stListPriorityQueue.h:202: warning: The following parameters of stListPriorityQueue::Add(stPageID pageID, stDistance distance, stDistance radius) are not documented:
+  parameter 'distance'
+  parameter 'radius'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stMAMView.h:485: warning: argument 'serial' of command @param is not found in the argument list of stMAMViewExtractor< ObjectType, EvaluatorType >::GetSerial()
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stMTree.h:264: warning: The following parameters of stMLogicNode::Distribute(stMIndexNode *node0, ObjectType *&rep0, stMIndexNode *node1, ObjectType *&rep1, EvaluatorType *metricEvaluator) are not documented:
+  parameter 'rep1'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stMTree.h:243: warning: argument 'id' of command @param is not found in the argument list of stMLogicNode< ObjectType, EvaluatorType >::GetRepresentative(int idx)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stMTree.h:243: warning: The following parameters of stMLogicNode::GetRepresentative(int idx) are not documented:
+  parameter 'idx'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stMTree.h:234: warning: argument 'id' of command @param is not found in the argument list of stMLogicNode< ObjectType, EvaluatorType >::GetRepresentativeIndex(int idx)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stMTree.h:234: warning: The following parameters of stMLogicNode::GetRepresentativeIndex(int idx) are not documented:
+  parameter 'idx'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stMTree.h:721: warning: argument 'obj' of command @param is not found in the argument list of stMTree< ObjectType, EvaluatorType >::Add(ObjectType *newObj)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stMTree.h:721: warning: The following parameters of stMTree::Add(ObjectType *newObj) are not documented:
+  parameter 'newObj'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stPageServer.h:115: warning: The following parameters of stPageServer::DisposePage(int clientID, stPage *page)=0 are not documented:
+  parameter 'clientID'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stPageServer.h:93: warning: The following parameters of stPageServer::GetPage(int clientID, stPageID pageid)=0 are not documented:
+  parameter 'clientID'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stPageServer.h:122: warning: The following parameters of stPageServer::ReleasePage(int clientID, stPage *page)=0 are not documented:
+  parameter 'clientID'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stPageServer.h:101: warning: The following parameters of stPageServer::WritePage(int clientID, stPage *page)=0 are not documented:
+  parameter 'clientID'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stResult.h:553: warning: argument 'r1' of command @param is not found in the argument list of stResult< ObjectType >::Intersection(stResult *result1, stResult *result2)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stResult.h:553: warning: argument 'r2' of command @param is not found in the argument list of stResult< ObjectType >::Intersection(stResult *result1, stResult *result2)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stResult.h:553: warning: The following parameters of stResult::Intersection(stResult *result1, stResult *result2) are not documented:
+  parameter 'result1'
+  parameter 'result2'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stResult.h:560: warning: argument 'r1' of command @param is not found in the argument list of stResult< ObjectType >::Union(stResult *result1, stResult *result2)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stResult.h:560: warning: argument 'r2' of command @param is not found in the argument list of stResult< ObjectType >::Union(stResult *result1, stResult *result2)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stResult.h:560: warning: The following parameters of stResult::Union(stResult *result1, stResult *result2) are not documented:
+  parameter 'result1'
+  parameter 'result2'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stResult.h:124: warning: argument 'joined' of command @param is not found in the argument list of stResultPair< ObjectType >::stResultPair(tObject *obj, tObject *joinedobj, stDistance distance)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stResult.h:124: warning: The following parameters of stResultPair::stResultPair(tObject *obj, tObject *joinedobj, stDistance distance) are not documented:
+  parameter 'joinedobj'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stSlimTree.h:276: warning: The following parameters of stSlimLogicNode::Distribute(stSlimIndexNode *node0, ObjectType *&rep0, stSlimIndexNode *node1, ObjectType *&rep1, EvaluatorType *metricEvaluator) are not documented:
+  parameter 'rep1'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stSlimTree.h:872: warning: argument 'obj' of command @param is not found in the argument list of stSlimTree< ObjectType, EvaluatorType >::Add(ObjectType *newObj)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stSlimTree.h:872: warning: The following parameters of stSlimTree::Add(ObjectType *newObj) are not documented:
+  parameter 'newObj'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stSlimTree.h:1251: warning: argument 'The' of command @param is not found in the argument list of stSlimTree< ObjectType, EvaluatorType >::IncrementalNearestQuery(ObjectType *sample, stCount k, tResult *result, tPGenericHeap *globalQueue)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stSlimTree.h:1251: warning: The following parameters of stSlimTree::IncrementalNearestQuery(ObjectType *sample, stCount k, tResult *result, tPGenericHeap *globalQueue) are not documented:
+  parameter 'result'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stSlimTree.h:1274: warning: argument 'The' of command @param is not found in the argument list of stSlimTree< ObjectType, EvaluatorType >::IncrementalNearestQuery(ObjectType *sample, stCount k, tResult *result, tGenericPriorityQueue *globalQueue)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stSlimTree.h:1274: warning: The following parameters of stSlimTree::IncrementalNearestQuery(ObjectType *sample, stCount k, tResult *result, tGenericPriorityQueue *globalQueue) are not documented:
+  parameter 'result'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stSlimTree.h:1205: warning: argument 'The' of command @param is not found in the argument list of stSlimTree< ObjectType, EvaluatorType >::InitializeIncrementalNearestQuery(ObjectType *sample, stCount k, tResult *result, tPGenericHeap *globalQueue)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stSlimTree.h:1205: warning: The following parameters of stSlimTree::InitializeIncrementalNearestQuery(ObjectType *sample, stCount k, tResult *result, tPGenericHeap *globalQueue) are not documented:
+  parameter 'result'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stSlimTree.h:1228: warning: argument 'The' of command @param is not found in the argument list of stSlimTree< ObjectType, EvaluatorType >::InitializeIncrementalNearestQuery(ObjectType *sample, stCount k, tResult *result, tGenericPriorityQueue *globalQueue)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stSlimTree.h:1228: warning: The following parameters of stSlimTree::InitializeIncrementalNearestQuery(ObjectType *sample, stCount k, tResult *result, tGenericPriorityQueue *globalQueue) are not documented:
+  parameter 'result'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stSlimTree.h:1458: warning: argument 'dir' of command @param is not found in the argument list of stSlimTree< ObjectType, EvaluatorType >::MAMViewInit()
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stSlimTree.h:1336: warning: argument 'nroObjects' of command @param is not found in the argument list of stSlimTree< ObjectType, EvaluatorType >::SimpleKOrRangeQuery(ObjectType *sample, double fractalDimension, stDistance radiusKOrRange, stCount k, bool tie=false)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stTreeInformation.h:175: warning: The following parameters of stTreeInformation::stTreeInformation(int height, int objectCount) are not documented:
+  parameter 'objectCount'
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stVPNode.h:200: warning: argument 'id' of command @param is not found in the argument list of stVPNode::GetObject()
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stVPNode.h:212: warning: argument 'id' of command @param is not found in the argument list of stVPNode::GetObjectSize()
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stVPTree.h:167: warning: argument 'obj' of command @param is not found in the argument list of stVPTree< ObjectType, EvaluatorType >::Add(tObject **objects, long listSize)
+C:/Users/User/Downloads/arboretum-1.0R2/arboretumR2/include/arboretum/stVPTree.h:167: warning: The following parameters of stVPTree::Add(tObject **objects, long listSize) are not documented:
+  parameter 'objects'
+  parameter 'listSize'
+error: Problem running ghostscript gswin32c.exe -q -g168x66 -r384x384x -sDEVICE=ppmraw -sOutputFile=_form0.pnm -dNOPAUSE -dBATCH -- _form0.ps. Check your installation!

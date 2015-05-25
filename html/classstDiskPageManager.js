@@ -1,0 +1,26 @@
+var classstDiskPageManager =
+[
+    [ "stDiskPageManager", "classstDiskPageManager.html#a772a97d4e5b864e26eaf663bee2a5a4d", null ],
+    [ "stDiskPageManager", "classstDiskPageManager.html#ae2609c0f9f7227362de0022f86588233", null ],
+    [ "stDiskPageManager", "classstDiskPageManager.html#a82d540183e2f538d1d0a34887b7fc769", null ],
+    [ "~stDiskPageManager", "classstDiskPageManager.html#acc16b970f7391042a06f69ece4e28767", null ],
+    [ "Create", "classstDiskPageManager.html#a4eeb56f95e43c674e2f3093160670cdf", null ],
+    [ "DisposePage", "classstDiskPageManager.html#aa108aef08ab67c2239d4068934b493d7", null ],
+    [ "Flush", "classstDiskPageManager.html#a0246cd3ad3f408b3ba3cde70d4799ce1", null ],
+    [ "GetDiskReadCount", "classstDiskPageManager.html#a8531b815b4fff2537a00f030d6679b75", null ],
+    [ "GetDiskSAccessCount", "classstDiskPageManager.html#a5e020cfb67d8efb46d1c219661ac4a28", null ],
+    [ "GetDiskWriteCount", "classstDiskPageManager.html#a0a991c4138b663b4a9570183535455a5", null ],
+    [ "GetFileName", "classstDiskPageManager.html#a9ff3da3767727afc41b09b56bbb24fb9", null ],
+    [ "GetHeaderPage", "classstDiskPageManager.html#a733523c13a0214809491faf70ba78aaf", null ],
+    [ "GetLastPageID", "classstDiskPageManager.html#a41878432e88dd86c896c6ef2b5adacfe", null ],
+    [ "GetMinimumPageSize", "classstDiskPageManager.html#a5b22b5384f37823b8c416d9fd806ebda", null ],
+    [ "GetNewPage", "classstDiskPageManager.html#a16be2ed1b2e90f2b7785b6363e5d59b7", null ],
+    [ "GetPage", "classstDiskPageManager.html#a65223bf6e7a1b68d8429ce0ea4fcf6cc", null ],
+    [ "IsEmpty", "classstDiskPageManager.html#a589ea09d55decf62ef36b2d1bcdb6179", null ],
+    [ "Open", "classstDiskPageManager.html#a388801c0dde6d94ef403d9cd1390bfaf", null ],
+    [ "ReleasePage", "classstDiskPageManager.html#aa903bf22fc19fabdae5741d770d2dd45", null ],
+    [ "ResetFile", "classstDiskPageManager.html#adfd10f8963012f3d64c41b6fdea224ff", null ],
+    [ "ResetStatistics", "classstDiskPageManager.html#ad793c496faa069a3151ae056ddd89963", null ],
+    [ "WriteHeaderPage", "classstDiskPageManager.html#ab275e3270220492de4e5ccf61c627499", null ],
+    [ "WritePage", "classstDiskPageManager.html#adfa608bede0b24b95f16a22df9b7cc7b", null ]
+];

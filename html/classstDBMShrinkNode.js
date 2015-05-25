@@ -1,0 +1,27 @@
+var classstDBMShrinkNode =
+[
+    [ "stDBMShrinkNode", "classstDBMShrinkNode.html#aea95cd6f22cc85591abf4fd759fc942a", null ],
+    [ "stDBMShrinkNode", "classstDBMShrinkNode.html#ab27e62ebb2b0c3f86fef52fbcc2723cb", null ],
+    [ "Add", "classstDBMShrinkNode.html#adc76ae75429de2220a6d67158fe63c48", null ],
+    [ "CanAdd", "classstDBMShrinkNode.html#a01c12b57164319598ea92abf244c2c3e", null ],
+    [ "DistanceAt", "classstDBMShrinkNode.html#a057bcfab23153350760da0a08705571d", null ],
+    [ "GetFreeSize", "classstDBMShrinkNode.html#a7b979a11380595ef08bf9b1168748bdb", null ],
+    [ "GetMinimumRadius", "classstDBMShrinkNode.html#a76057aa5918187759c1a37497ccd2d1f", null ],
+    [ "GetNumberOfEntries", "classstDBMShrinkNode.html#af172be31cfe3100114edff02434178b0", null ],
+    [ "HeightAt", "classstDBMShrinkNode.html#a50efef2927b4c682dbf37a1b27b632b4", null ],
+    [ "LastDistance", "classstDBMShrinkNode.html#ae905145379220de6ad6e77fc5a6be1c4", null ],
+    [ "LastHeight", "classstDBMShrinkNode.html#a6232d08386e17f233f46a832b78ab004", null ],
+    [ "LastNEntries", "classstDBMShrinkNode.html#a9e6eab2325ba3ec67d5b90dbcc333677", null ],
+    [ "LastObject", "classstDBMShrinkNode.html#a321a668646ea265d7a829d310e4fc653", null ],
+    [ "LastPageID", "classstDBMShrinkNode.html#a8224d156338a255475c5d1c4daf557a2", null ],
+    [ "LastRadius", "classstDBMShrinkNode.html#a348d42fd741ee66fb3ddad0f71cb51f3", null ],
+    [ "NEntriesAt", "classstDBMShrinkNode.html#aeb1867d1ae5953713706de01b76bc0be", null ],
+    [ "ObjectAt", "classstDBMShrinkNode.html#a62168b389eb31c33ecba787e56d9a9b0", null ],
+    [ "PageIDAt", "classstDBMShrinkNode.html#afc32724dab0a2606830dafd98fe3c294", null ],
+    [ "PopObject", "classstDBMShrinkNode.html#a1257f8faae9acecbe3556622b1f19a77", null ],
+    [ "RadiusAt", "classstDBMShrinkNode.html#ab94acbac15b32daca73aed6e50d832d1", null ],
+    [ "Release", "classstDBMShrinkNode.html#abbcfc36ebd07252d3c0a4f1ab5c669f4", null ],
+    [ "ReleaseNode", "classstDBMShrinkNode.html#a93a147ede1f600892d546aaa71071118", null ],
+    [ "Remove", "classstDBMShrinkNode.html#a2817900c50d598e2f9caf62b52ae39b4", null ],
+    [ "RepObject", "classstDBMShrinkNode.html#ad419770993ae8233d5cd2f1afa8ded1a", null ]
+];
